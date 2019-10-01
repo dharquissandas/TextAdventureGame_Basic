@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Enemies
+comment1.params=attack\ health\ name
+comment1.target=Enemies(int,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=int\ attack()
+comment3.params=
+comment3.target=int\ specialAttack()
+comment4.params=dealtAttack
+comment4.target=void\ reduceHealth(int)
+comment5.params=healthIncrease
+comment5.target=void\ increaseHealth(int)
+comment6.params=
+comment6.target=int\ getHealth()
+numComments=7

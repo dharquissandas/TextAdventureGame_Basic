@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Spear
+comment1.params=strength\ name
+comment1.target=Spear(int,\ java.lang.String)
+comment2.params=
+comment2.target=void\ attack()
+numComments=3

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=StoryElements
+comment1.params=
+comment1.target=java.lang.String\ introScreen()
+comment2.params=
+comment2.target=java.lang.String\ fightChoice()
+comment3.params=
+comment3.target=java.lang.String\ cayden()
+comment4.params=
+comment4.target=java.lang.String\ gremlin()
+comment5.params=
+comment5.target=java.lang.String\ alatar()
+numComments=6

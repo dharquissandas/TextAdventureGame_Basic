@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Fight
+comment1.params=p\ e\ level\ display\ run\ userEntry
+comment1.target=Fight(Player,\ Enemies,\ int,\ javax.swing.JTextArea,\ javax.swing.JButton,\ javax.swing.JTextField)
+comment2.params=
+comment2.target=void\ fightScene()
+numComments=3

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=GameGUI
+comment1.params=player
+comment1.target=GameGUI(Player)
+comment2.params=
+comment2.target=javax.swing.JTextField\ getUserEntry()
+comment3.params=
+comment3.target=javax.swing.JTextArea\ getDisplay()
+comment4.params=
+comment4.target=javax.swing.JButton\ getRun()
+comment5.params=
+comment5.target=javax.swing.JButton\ getInventoryButton()
+numComments=6

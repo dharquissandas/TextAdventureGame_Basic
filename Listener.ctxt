@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Listener
+comment1.params=run\ inventorybutton\ display\ userEntry\ player\ level
+comment1.target=Listener(javax.swing.JButton,\ javax.swing.JButton,\ javax.swing.JTextArea,\ javax.swing.JTextField,\ Player,\ int)
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=3
